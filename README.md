@@ -10,6 +10,10 @@ Within the first function you can change various export options that you need fo
 
 Within the script you can change the order of the groups, layers and tags in the naming convention of the new sprite sheets when exporting the animated spritesheets. It is located on lines 71 and 74. It is based off from what you name the groups, layers, and tags. the spacing letter can easily be changed within the function on line 90.
 
+**Small changes to this version:**
+- Keep the output, don't change the output result (keep rows)
+- Export them into folders per animation
+
 Open the file that you want to export:
 ![1](https://user-images.githubusercontent.com/17126294/171528492-407cc994-bf04-40e4-99c7-1f9fcc80bf61.PNG)
 

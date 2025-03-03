@@ -1,4 +1,4 @@
-All credits to @NepiMwewa.
+![image](https://github.com/user-attachments/assets/70d794af-5e64-4f2c-96e5-5a04975f8864)All credits to @NepiMwewa.
 
 # aseprite-tools
 Aseprite tools
@@ -24,5 +24,9 @@ Go to File>Scripts>Animation Export Groups, Layers & Tags>Export Animations.
 
 See the results
 ![3](https://user-images.githubusercontent.com/17126294/171528504-3fd6271b-7a89-4998-8495-6ee85e94098e.PNG)
+
+**Changes in this version:**
+![image](https://github.com/user-attachments/assets/6293cf68-00bb-4d85-bbc7-0159cc973cbb)
+
 
 Hope this export script can be useful for others as well.

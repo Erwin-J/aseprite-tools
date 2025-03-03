@@ -1,3 +1,5 @@
+All credits to @NepiMwewa.
+
 # aseprite-tools
 Aseprite tools
 
